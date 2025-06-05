@@ -8,11 +8,12 @@
 <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
 </div>
 
+<br/><br/>
 <div align = "center">
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </div>
 
-
+<br/><br/>
 <div align="center">
   <img width = "100px" height = "100px" src = "https://github.com/AvRYNS/AvRYNS/blob/d548dbe8a80d385353d97f012911e11dc172c9cd/aws-certified-cloud-practitioner.png"/>
 </div>
