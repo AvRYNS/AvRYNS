@@ -15,8 +15,8 @@
 
 <br/><br/>
 #Certification
-2024.06 : 정보처리기사 취득
-2025.04 : AWS Certified Cloud Practitioner(CLF-C02) - Foundational 취득
+- 2024.06 : 정보처리기사 취득
+- 2025.04 : AWS Certified Cloud Practitioner(CLF-C02) - Foundational 취득
 
 <br/><br/>
 #Certification_bade
