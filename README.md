@@ -14,6 +14,12 @@
 </div>
 
 <br/><br/>
+#Certification
+2024.06 : 정보처리기사 취득
+2025.04 : AWS Certified Cloud Practitioner(CLF-C02) - Foundational 취득
+
+<br/><br/>
+#Certification_bade
 <div align="center">
   <img width = "100px" height = "100px" src = "https://github.com/AvRYNS/AvRYNS/blob/d548dbe8a80d385353d97f012911e11dc172c9cd/aws-certified-cloud-practitioner.png"/>
 </div>
